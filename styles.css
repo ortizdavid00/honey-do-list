@@ -67,7 +67,7 @@ h1 {
   }
   body {
     padding-top: 20px;
-    width: 320px;
+    width: 280px;
     margin: auto;
   }
   .container {
@@ -87,10 +87,11 @@ h1 {
   #addTodo {
     box-sizing: border-box;
     border: 1px solid black;
-    line-height: 30px;
+    line-height: 32px;
     width: 26px;
     vertical-align: middle;
     font-size: 22px;
+    background: white;
   }
   .paragraph-styling {
     font-size: 26px;
