@@ -35,7 +35,7 @@ h1 {
 
 #addTodo {
   box-sizing: border-box;
-  border: 1px solid black;
+  border: 1p solid black;
   line-height: 46px;
   width: 50px;
   vertical-align: middle;
@@ -67,17 +67,17 @@ h1 {
   }
   body {
     padding-top: 20px;
-    width: 400px;
+    width: 320px;
     margin: auto;
   }
   .container {
-    width: 320px;
+    width: 280px;
     margin: auto;
     padding-top: 15px;
     align-items: center;
   }
   #inputField {
-    width: 280px;
+    width: 240px;
     height: 30px;
     border: 1px solid black;
     outline: none;
